@@ -1,23 +1,45 @@
-# DSA---LeetCode
-A collection of my Data Structures and Algorithms solutions from LeetCode, organized by topic as I learn and improve my problem-solving skills.
 # DSA & LeetCode
+A collection of my Data Structures and Algorithms solutions from LeetCode, organized by topic as I learn and improve my problem-solving skills.
 
-My journey of learning Data Structures and Algorithms
-through LeetCode.
+This repository contains the Data Structures and Algorithms problems I solve on [LeetCode](https://leetcode.com/).
 
-## Progress
+I am using this repository to track my DSA journey, improve my problem-solving skills, and understand different problem-solving patterns.
 
-- Arrays: 10
-- Strings: 5
-- Linked List: 3
-- Binary Search: 2
-- Trees: 0
-- Graphs: 0
-- DP: 0
+## 📊 Progress
 
-## Language
-C++
+- **Problems Solved:** 8
+- **Language:** C++
 
-## Goal
-Improve problem-solving skills and understand
-common DSA patterns.
+### Difficulty
+
+- 🟢 Easy: 6
+- 🟡 Medium: 2
+- 🔴 Hard: 0
+
+## 🧠 Topics Covered
+
+- Arrays
+- Strings
+- Two Pointers
+- Hash Table
+- Recursion
+- Math
+- Dynamic Programming
+- Divide and Conquer
+
+## 📁 Repository Structure
+
+Problems are organized based on the topic or pattern used to solve them.
+
+```text
+DSA---LeetCode/
+│
+├── Arrays/
+├── Strings/
+├── Linked-List/
+├── Binary-Search/
+├── Stack-Queue/
+├── Recursion/
+├── Trees/
+├── Graphs/
+└── Dynamic-Programming/
