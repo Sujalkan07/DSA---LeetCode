@@ -16,16 +16,17 @@ public:
                 start = mid+1;
             }
         }
-        if(target>nums[middle]){
-            return middle+1;
-        }
-        else {
-            if(middle==0){
-            return 0;
-            }
-            else{
-                return middle;
-            }
-        }
+        return start ;
+        // if(target>nums[middle]){
+        //     return middle+1;
+        // }
+        // else {
+        //     if(middle==0){
+        //     return 0;
+        //     }
+        //     else{
+        //         return middle;
+        //     }
+        // }
     }
 };
