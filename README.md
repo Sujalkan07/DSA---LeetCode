@@ -12,8 +12,8 @@ I am using this repository to track my DSA journey, improve my problem-solving s
 
 ### Difficulty
 
-- 🟢 Easy: 6
-- 🟡 Medium: 2
+- 🟢 Easy: 8
+- 🟡 Medium: 3
 - 🔴 Hard: 0
 
 ## 🧠 Topics Covered
