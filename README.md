@@ -7,13 +7,13 @@ I am using this repository to track my DSA journey, improve my problem-solving s
 
 ## 📊 Progress
 
-- **Problems Solved:** 8
+- **Problems Solved:** 12
 - **Language:** C++
 
 ### Difficulty
 
 - 🟢 Easy: 8
-- 🟡 Medium: 3
+- 🟡 Medium: 4
 - 🔴 Hard: 0
 
 ## 🧠 Topics Covered
